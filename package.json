@@ -1,0 +1,32 @@
+{
+  "name": "coderconsol-colorify",
+  "version": "1.0.0",
+  "description": "A library to get   text colors in consol log",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akrocky/npm-package-consol-coolor.git"
+  },
+  "keywords": [
+    "console log colors",
+    "colorify logs"
+  ],
+  "author": "Abul kashem <https://www.linkedin.com/in/abulkashem01/>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akrocky/npm-package-consol-coolor/issues"
+  },
+  "homepage": "https://github.com/akrocky/npm-package-consol-coolor#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@types/node": "^18.11.18"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}

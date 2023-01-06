@@ -1,3 +1,3 @@
 # my new npm package
 
-###### this will be to color consol log
+###### A library to get text colors in consol log
